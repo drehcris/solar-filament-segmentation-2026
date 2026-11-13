@@ -16,7 +16,7 @@ Depois, as máscaras são redimensionadas para 2048×2048, separadas em componen
 
 ## Resultado
 
-- Melhor Dice de validação: `0.5`
+- Melhor Dice de validação: `0.59`
 - Score público no Kaggle: `PREENCHER`
 - GPU utilizada: `Tesla T4`
 
