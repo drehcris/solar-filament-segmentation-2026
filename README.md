@@ -30,7 +30,5 @@ Depois, as máscaras são redimensionadas para 2048×2048, separadas em componen
 
 O arquivo `unet_best.pt` está disponível no GitHub Release:
 
-[Download do modelo treinado](COLE_AQUI_O_LINK_DO_RELEASE)
+[Download do modelo treinado](https://github.com/drehcris/solar-filament-segmentation-2026/releases/tag/v1.0)
 
-4. Executar todas as células.
-5. Enviar `submission_unet.csv` no Kaggle.
