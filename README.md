@@ -25,5 +25,12 @@ Depois, as máscaras são redimensionadas para 2048×2048, separadas em componen
 1. Abrir o notebook no Kaggle.
 2. Adicionar os dados da competição.
 3. Ativar GPU.
+
+## Modelo treinado
+
+O arquivo `unet_best.pt` está disponível no GitHub Release:
+
+[Download do modelo treinado](COLE_AQUI_O_LINK_DO_RELEASE)
+
 4. Executar todas as células.
 5. Enviar `submission_unet.csv` no Kaggle.
