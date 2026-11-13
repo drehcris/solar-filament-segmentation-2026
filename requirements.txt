@@ -1,0 +1,5 @@
+numpy==2.5.4
+Pillow==13.0.0
+scikit-image==0.26.0
+pycocotools==2.0.11
+nbformat==5.10.4
